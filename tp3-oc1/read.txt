@@ -1,0 +1,13 @@
+Augusto Carvalho Pereira - 2019054358
+Guilherme Luiz Lara Silva - 2019054633
+Rafael Bicalho Roth - 2019100082
+
+----------------------------------------------------
+Versão Java: 16.0.2
+
+Para executar o TP basta rodar o comando ./run.sh NOME_ARQUIVO.
+A saída estará em out/production/teste-tp-oc1/results.txt
+
+Esse TP pode ser executado utilizando outras IDEs, como o IntelliJ, por exemplo. Nesse caso, basta
+usar o comando de RUN da sua IDE e o a saída estará tanto no diretório acima, quanto num arquivo results.txt
+na raíz do projeto.

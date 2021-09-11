@@ -1,0 +1,10 @@
+tamanho do conjunto elemento 1 do conjunto elemento 2 do conjunto  elemento 3 do conjunto ... elemento n do conjunto 
+coordernada x coordernada y
+coordernada x coordernada y
+coordernada x coordernada y
+.
+.
+.
+.
+.
+coordernada x coordernada y

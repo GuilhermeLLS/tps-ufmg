@@ -1,0 +1,14 @@
+Para que o programa seja executado corretamente, é necessário que você tenha em sua máquina o gcc.
+Para mais informações de como instalar o gcc:
+    - Windows (http://www.mingw.org/wiki/InstallationHOWTOforMinGW)
+    - Linux (https://linuxize.com/post/how-to-install-gcc-compiler-on-ubuntu-18-04/)
+
+Para rodar o programa, basta possuir um arquivo de input no formato padrão,
+formato o qual podemos encontrar no arquivo input-padrão.txt. (Você também pode observar os arquivos input.txt e input2.txt)
+
+Depois de organizar e salvar, nesse mesmo diretório, o seu arquivo chamado input.txt, basta abrir o terminal e ir para o diretório que você salvou seu programa
+(e seus arquivos de input) e executar
+- gcc relacao.c -o tp
+Isso irá gerar um arquivo chamado tp(do tipo bin) e para executar esse arquivo, basta realizar o comando
+- ./tp
+Depois disso, as saídas do programa aparecerão no terminal e o processo terá de execução terá sido terminado. 
