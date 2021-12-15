@@ -13,7 +13,7 @@ Os testes desse TP foram retirados do repositório da biblioteca de UI para Reac
 
 ## Ferramenta de testes
 
-Para os testes observados abaixo, foram utilizadas as bibliotecas jest e react testing library (que usa o jest internamente). O jest é um biblioteca de propóstito geral para testes em javascript, e o react testing library é uma biblioteca dos mesmos criadores da testing-library, uma biblioteca geral para testes de javascript à nivel de UI. Vale ressaltar que a família testing-library, possui outras "variações", como o vue-testing-library, reason-testing-library, svelte-testing-library, dentre outros. Todos os outros filhos da testing-library são feitos para frameworks javascript, bibliotecas javascript ou linguagens que compilam para javascript (que é o caso do ReasonML).
+Para os testes observados abaixo, foram utilizadas as bibliotecas [jest](https://jestjs.io/) e [react testing library](https://testing-library.com/docs/react-testing-library/intro) (que usa o jest internamente). O jest é um biblioteca de propóstito geral para testes em javascript, e o react testing library é uma biblioteca dos mesmos criadores da [testing-library](https://testing-library.com/), uma biblioteca geral para testes de javascript à nivel de UI. Vale ressaltar que a família testing-library, possui outras "variações", como o vue-testing-library, reason-testing-library, svelte-testing-library, dentre outros. Todos os outros filhos da testing-library são feitos para frameworks javascript, bibliotecas javascript ou linguagens que compilam para javascript (que é o caso do [ReasonML](https://reasonml.github.io/)).
 
 ## Testes observados
 
