@@ -1,0 +1,15 @@
+Como rodar:
+
+1) make
+
+// IPV4 //
+
+2) abrir 2 terminais
+2.1) ./server v4 5151
+2.2) ./equipment 127.0.0.1 5151
+
+// IPV6 //
+
+2) abrir 2 terminais
+2.1) ./server v6 5151
+2.2) ./equipment ::1 5151

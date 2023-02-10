@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "inttypes.h": "c",
+        "string.h": "c",
+        "common.h": "c",
+        "types.h": "c",
+        "my-common.h": "c",
+        "inet.h": "c",
+        "time.h": "c",
+        "stdlib.h": "c",
+        "socket.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Enabled"
+}
